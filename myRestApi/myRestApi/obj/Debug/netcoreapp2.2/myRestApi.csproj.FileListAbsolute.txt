@@ -1,0 +1,14 @@
+/Users/Jia/Documents/projects/myRestApi/myRestApi/bin/Debug/netcoreapp2.2/myRestApi.deps.json
+/Users/Jia/Documents/projects/myRestApi/myRestApi/bin/Debug/netcoreapp2.2/myRestApi.runtimeconfig.json
+/Users/Jia/Documents/projects/myRestApi/myRestApi/bin/Debug/netcoreapp2.2/myRestApi.runtimeconfig.dev.json
+/Users/Jia/Documents/projects/myRestApi/myRestApi/bin/Debug/netcoreapp2.2/myRestApi.dll
+/Users/Jia/Documents/projects/myRestApi/myRestApi/bin/Debug/netcoreapp2.2/myRestApi.pdb
+/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.csprojAssemblyReference.cache
+/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.csproj.CoreCompileInputs.cache
+/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.RazorAssemblyInfo.cache
+/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.RazorAssemblyInfo.cs
+/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.AssemblyInfoInputs.cache
+/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.AssemblyInfo.cs
+/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.RazorTargetAssemblyInfo.cache
+/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.dll
+/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.pdb

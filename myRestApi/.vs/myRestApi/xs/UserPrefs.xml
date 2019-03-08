@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{DDC23B33-A8F5-40D3-A15E-EF0689591F9B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myRestApi/Controllers/ItemController.cs">
+    <Files>
+      <File FileName="myRestApi/Controllers/ItemController.cs" Line="34" Column="27" />
+      <File FileName="myRestApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="myRestApi/Program.cs" Line="19" Column="1" />
+      <File FileName="myRestApi/Startup.cs" Line="1" Column="1" />
+      <File FileName="myRestApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="myRestApi/Models/SomeItem.cs" Line="11" Column="1" />
+      <File FileName="myRestApi/Models/myRestContext.cs" Line="12" Column="41" />
+      <File FileName="myRestApi/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myRestApi" expanded="True">
+            <Node name="myRestApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ItemController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.myRestApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
