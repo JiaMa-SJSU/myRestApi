@@ -3,7 +3,6 @@
 /Users/Jia/Documents/projects/myRestApi/myRestApi/bin/Debug/netcoreapp2.2/myRestApi.runtimeconfig.dev.json
 /Users/Jia/Documents/projects/myRestApi/myRestApi/bin/Debug/netcoreapp2.2/myRestApi.dll
 /Users/Jia/Documents/projects/myRestApi/myRestApi/bin/Debug/netcoreapp2.2/myRestApi.pdb
-/Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.csprojAssemblyReference.cache
 /Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.csproj.CoreCompileInputs.cache
 /Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.RazorAssemblyInfo.cache
 /Users/Jia/Documents/projects/myRestApi/myRestApi/obj/Debug/netcoreapp2.2/myRestApi.RazorAssemblyInfo.cs
