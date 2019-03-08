@@ -69,5 +69,22 @@ namespace myRestApi.Controllers
 
             return NoContent();
         }
+
+        // DELETE: api/item/1
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteSomeItem(int id)
+        {
+            var todoItem = await _context.SomeItems.FindAsync(id);
+
+            if (todoItem == null)
+            {
+                return NotFound();
+            }
+
+            _context.SomeItems.Remove(todoItem);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
     }
 }
