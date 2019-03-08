@@ -31,7 +31,7 @@ namespace myRestApi.Controllers
             return await _context.SomeItems.ToListAsync();
         }
 
-        // GET: api/item/5
+        // GET: api/item/1
         [HttpGet("{id}")]
         public async Task<ActionResult<SomeItem>> GetSomeItem(int id)
         {
@@ -53,6 +53,21 @@ namespace myRestApi.Controllers
             await _context.SaveChangesAsync();
 
             return CreatedAtAction(nameof(GetSomeItem), new { id = item.Id }, item);
+        }
+
+        // PUT: api/item/1
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutSomeItem(int id, SomeItem item)
+        {
+            if (id != item.Id)
+            {
+                return BadRequest();
+            }
+
+            _context.Entry(item).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+
+            return NoContent();
         }
     }
 }
