@@ -31,7 +31,7 @@ namespace myRestApi.Controllers
             return await _context.SomeItems.ToListAsync();
         }
 
-        // GET: api/item/1
+        // GET: api/item/5
         [HttpGet("{id}")]
         public async Task<ActionResult<SomeItem>> GetSomeItem(int id)
         {
@@ -43,6 +43,16 @@ namespace myRestApi.Controllers
             }
 
             return someItem;
+        }
+
+        // POST: api/item
+        [HttpPost]
+        public async Task<ActionResult<SomeItem>> PostSomeItem(SomeItem item)
+        {
+            _context.SomeItems.Add(item);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetSomeItem), new { id = item.Id }, item);
         }
     }
 }
